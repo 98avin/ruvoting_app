@@ -1,0 +1,5 @@
+{
+	"plugins": [
+		"emotion",
+		 ["import", {"libraryName": "antd-mobile", "style": true}]]
+}
